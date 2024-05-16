@@ -38,5 +38,22 @@ h1{
 
 
 
+## renderisado  
+ es  la accion  que hace el navegador que hace navegador para mostrar el contenido de la pagina web.
+
+
+
+
+
+![alt text](image-2.png)
+
+
+
+
+
+
+
+
+
 
 # unidades de medida de css tareañas 
