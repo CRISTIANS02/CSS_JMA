@@ -1,0 +1,18 @@
+.caja{
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgb(255, 255, 255);
+    
+}
+
+article{
+    height: 130px;
+    width:33%;
+}
+
+
+.extremos{
+    background: red;
+
+}
