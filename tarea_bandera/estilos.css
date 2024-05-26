@@ -1,0 +1,105 @@
+.caja {
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+  }
+  
+  article {
+    height: 130px;
+    width: 33.3%;
+  }
+  
+  .extremo_verde {
+    background: green;
+  }
+  
+  .extremo_rojo {
+    background: red;
+  }
+  
+  .extremo_azul {
+    background: blue;
+  }
+  
+  .caja_uno {
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+  }
+  
+  .caja_uno article {
+    height: 85px;
+    width: 33%;
+  }
+  
+  .caja_ancha {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+  }
+  
+  .caja_ancha article {
+    height: 65px;
+    width: 33%;
+  }
+  
+  .caja_muy_ancha {
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    background: red;
+  }
+  
+  .caja_muy_ancha article {
+    height: 75px;
+    width: 27%;
+  }
+  
+  .img {
+    max-width: 50px;
+    max-width: px;
+    max-block-size: 13;
+    height: auto;
+    margin-top: 35px;
+    margin-left: 25px;
+  }
+  
+  .img_chi {
+    max-width: 50px;
+    max-width: px;
+    max-block-size: 13;
+    height: auto;
+    margin-top: 15px;
+    margin-left: 25px;
+  }
+  
+  .caja_bolivia {
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+  }
+  
+  .caja_bolivia article {
+    height: 130px;
+    width: 33.3%;
+  }
+  
+  .verde {
+    background-color: #238E68;
+  }
+  
+  .amarillo {
+    background-color: #FFD966;
+    position: relative;
+  }
+
+  
+  
+  .rojo {
+    background-color: #D11141;
+  }
