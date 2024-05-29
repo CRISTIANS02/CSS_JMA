@@ -1,0 +1,21 @@
+.contenedor{
+    background:  green;
+    width: 90%;
+    height: 600px;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+
+}
+
+p{
+    background:white;
+    width: 20%;
+    height: 100%;
+    text-align:  center;
+    font-size: 28px;
+    margin: 5px;
+
+
+}

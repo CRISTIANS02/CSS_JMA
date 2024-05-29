@@ -59,3 +59,5 @@ h1{
 # unidades de medida de css tareañas 
 
 averiguar flexbox y greed   → sirbe para ubicar nuestras cvjas
+
+flex wrap → para salto de pajna
